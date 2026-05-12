@@ -1,4 +1,4 @@
-# 
+# Enhance Inkscape for macOS with Inkscape for macOS premium Panel - 3D rendering and asset management, the #1 panel. Includes 3D rendering and asset management for a smoother and
 
 
 
